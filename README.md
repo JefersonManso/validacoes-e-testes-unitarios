@@ -98,21 +98,26 @@ Classe responsável por realizar os testes da classe ValidacoesString.
 
 O projeto está estruturado da seguinte maneira:
 
-![Solution](Imagens/projeto.png)
-
 *Figura 1 – Estrutura do projeto*
 
----
+![Solution](Imagens/projeto.png)
 
-![Teste do Build](Imagens/teste-build.png)
+
+---
 
 *Figura 2 – Resultado do Build*
 
+![Teste do Build](Imagens/teste-build.png)
+
+
+
 ---
+
+*Figura 3 – Testes Unitários passando*
 
 ![Teste Unitário](Imagens/teste-unitario.png)
 
-*Figura 3 – Testes Unitários passando*
+
 
 ---
 
@@ -146,4 +151,3 @@ git clone https://github.com/JefersonManso/validacoes-e-testes-unitarios.git
 cd validacoes-e-testes-unitarios
 dotnet test
 
----
