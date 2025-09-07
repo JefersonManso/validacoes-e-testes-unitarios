@@ -1,5 +1,4 @@
 # Testes Unitários com C#
-![.NET](https://github.com/JefersonManso/validacoes-e-testes-unitarios/actions/workflows/dotnet.yml/badge.svg)
 
 ---
 
@@ -100,12 +99,19 @@ Classe responsável por realizar os testes da classe ValidacoesString.
 O projeto está estruturado da seguinte maneira:
 
 ![Solution](Imagens/projeto.png)
+
 *Figura 1 – Estrutura do projeto*
 
+---
+
 ![Teste do Build](Imagens/teste-build.png)
+
 *Figura 2 – Resultado do Build*
 
+---
+
 ![Teste Unitário](Imagens/teste-unitario.png)
+
 *Figura 3 – Testes Unitários passando*
 
 ---
